@@ -75,7 +75,7 @@ public class CartDAOUnitTest
 		{
 			System.out.print(cart.getCartId()+":::");
 			System.out.print(cart.getProductid()+":::");
-			System.out.println(cart.getPaymentStatuse()+":::");
+			System.out.println(cart.getPaymentStatus()+":::");
 			System.out.println(cart.getPrice()+":::");
 			System.out.println(cart.getProductName()+":::");
 			System.out.println(cart.getQuantity()+":::");

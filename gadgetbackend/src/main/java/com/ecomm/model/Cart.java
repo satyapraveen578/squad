@@ -20,13 +20,13 @@ public class Cart
 	
 	String productName;
 	String userName;
-	String paymentStatuse;
+	String paymentStatus;
 	
-	public String getPaymentStatuse() {
-		return paymentStatuse;
+	public String getPaymentStatus() {
+		return paymentStatus;
 	}
-	public void setPaymentStatuse(String paymentStatuse) {
-		this.paymentStatuse = paymentStatuse;
+	public void setPaymentStatus(String paymentStatus) {
+		this.paymentStatus = paymentStatus;
 	}
 	public int getProductid() 
 	{
